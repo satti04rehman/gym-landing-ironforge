@@ -45,7 +45,7 @@ img { max-width: 100%; display: block; }
 .btn-line-white { border-color: rgba(255,255,255,.35); background: transparent; color: #fff; }
 .btn-line-white:hover { border-color: #fff; background: rgba(255,255,255,.08); }
 .btn-lg { padding: 16px 34px; font-size: 16px; }
-.btn-sm { padding: 10px 20px; font-size: 13px; }
+.btn-sm { padding: 13px 20px; font-size: 13px; }
 .btn-block { width: 100%; justify-content: center; }
 
 /* ---- Header ---- */
