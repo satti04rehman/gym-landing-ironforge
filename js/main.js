@@ -112,7 +112,7 @@
         "Phone: " + phone + "\n" +
         "Goal: " + goal;
 
-      const url = "https://wa.me/923165661622?text=" + encodeURIComponent(msg);
+      const url = "mailto:info@ironforgefitness.pk?subject=Enquiry &body=" + encodeURIComponent(msg);
       window.open(url, "_blank", "noopener");
     });
   }
